@@ -1,0 +1,36 @@
+edge-ai-predictive-maintenance/
+│
+├── firmware/
+│   ├── src/
+│   └── README.md
+│
+├── hardware/
+│   ├── schematics/
+│   ├── simulations/
+│   └── README.md
+│
+├── data/
+│   ├── raw/
+│   ├── processed/
+│   └── README.md
+│
+├── analysis/
+│   ├── notebooks/
+│   └── scripts/
+│
+├── ml/
+│   ├── models/
+│   ├── training/
+│   └── README.md
+│
+├── docs/
+│   ├── project-notes.md
+│   └── architecture.md
+│
+├── .gitignore
+├── LICENSE
+└── README.md
+
+
+this is the project structure for the edge-ai-predictive-maintenance project. 
+as of 9/29/2026, the project is in the early stages of development, with just the firmware and hardware directories being populated.
